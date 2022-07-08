@@ -5,3 +5,5 @@
 /.project
 /test-output/
 /.springBeans
+./idea
+./spring-nio-rest.iml
